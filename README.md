@@ -20,7 +20,7 @@ An intelligent travel itinerary generator built using **React**, **Gemini API**,
 
 ## 🌐 Live Demo
 
-👉 [Visit the Live App](plan-my-trip-ai.netlify.app)
+👉 [Visit the Live App](https://plan-my-trip-ai.netlify.app)
 
 ## 📂 Folder Structure
 
